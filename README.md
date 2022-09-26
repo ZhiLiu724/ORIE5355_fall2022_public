@@ -9,3 +9,7 @@
 ## HW2, due 9/27/2022
 
 See assignment notebook for details about the dataset.
+
+## HW3, due 10/18/2022
+
+See assignment notebook for details about the dataset. Note that the conceptual component is due earlier at 10/5/2022 before class.
